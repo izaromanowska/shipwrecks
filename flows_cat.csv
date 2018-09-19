@@ -1,0 +1,75 @@
+id,origin_cat,destin_cat
+0,Aegyptus,Italia
+1,Asia,Italia
+2,Asia,Italia
+3,Aegean,Italia
+5,Asia,Italia
+6,Aegean,Italia
+7,Achaia,Narbonensis
+8,Aegean,Italia
+9,Aegean,Italia
+12,Greece,Italia
+37,Macedonia,Ponto Euxino
+50,Mare Hadriaticum,Aegean
+59,Aegean,Syria/Iudaea
+60,Italia,Iadeae
+63,Mare Hadriaticum,Aegyptus
+64,Italia,Aegyptus
+66,Macedonia,Ponto Euxino
+68,Asia,Italia
+77,Italia,India
+79,Ignotus,Narbonensis
+113,Asia/Creta/Italia,Narbonensis
+115,Aegean,Narbonensis
+119,Asia,Syria/Iudaea/Cyprus
+125,Lycia et Pamphylia,Aegyptus
+129,Africa Proconsularis,Cyrene
+130,Asia,Aegyptus
+134,Creta,Italia
+137,Ignotus,Narbonensis
+160,Africa Proconsularis,Italia
+169,Aegean/Italia,Narbonensis
+171,Aegean,Narbonensis
+173,Asia,Italia
+174,Asia,Italia
+176,Aegean,Italia
+177,Aegean,Italia
+179,Aegean,Italia
+180,Hispania/Achaia/Mare Hadriaticum,Italia
+181,Aegean,Italia
+182,Aegean,Italia
+183,Asia,Italia
+184,Asia/Achaia,Italia
+185,Achaia,Italia
+210,Macedonia,Italia
+759,Africa Proconsularis,Italia
+845,Africa Proconsularis,Italia
+864,Africa Proconsularis/Cyrene,Sicilia
+865,Africa Proconsularis/Cyrene,Sicilia
+1002,Narbonensis,Narbonensis
+1012,Aegean,Italia
+1014,Africa Proconsularis/Cyrene,Italia
+1080,Africa Proconsularis/Hispania/Sicilia/Sardinia,Italia
+1387,Hispania Citerior,Italia
+1391,Mare Hadriaticum,Italia
+1412,Hispania,Italia
+1422,Aegean,Narbonensis
+1427,Baetica,Italia
+1484,Hispania Citerior,Italia
+1524,Narbonensis,Narbonensis
+1561,Cyprus,Iudaea
+1627,Achaia,Macedonia
+1653,Ignotus,Thracia
+1707,Creta,Creta
+1728,Bithynia et Pontus,Macedonia
+1730,Thracia,Thracia
+1731,Asia,Thracia
+1732,Asia,Thracia
+1733,Aegean,Thracia
+1735,Asia,Thracia
+1739,Bithynia et Pontus,ignotus
+1753,Baetica,Italia
+1754,Lusitania,Italia
+1755,Hispania Citerior,Italia
+1758,Syria/Iudaea/Cyprus,Syria/Iudaea/Cyprus
+1764,Italia,Aegean
